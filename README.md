@@ -1,5 +1,5 @@
 # majority-elements-
-//Finding majority elements of an array using c++ code(static coding).
+//Finding majority element in an array using c++ code(static coding).
 #include<iostream>
 using namespace std;
 int main(){
